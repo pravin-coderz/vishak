@@ -1,0 +1,4 @@
+[21-Sep-2021 20:14:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/parthipalan/public_html/vishakinnovations.com/wp-content/themes/twentytwentyone/404.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/parthipalan/public_html/vishakinnovations.com/wp-content/themes/twentytwentyone/404.php on line 12
